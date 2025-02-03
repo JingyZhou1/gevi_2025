@@ -1,2 +1,1 @@
-# gevi_2025
-Code for the GEVI paper.
+The first file to run is preprocessing. 
